@@ -2,10 +2,6 @@
 layout: single
 title: About
 permalink: /about/
-classes:
-  - landing
-theme:
-    - air
 
 ---
 
