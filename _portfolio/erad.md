@@ -20,6 +20,18 @@ eRAD did a branding update last year, and needed a website that matched their ne
 
 ![fsjofbsf](/assets/images/portfolio/erad/erad-site-1.png  "eRAD site redesign")
 
+## What We Did
+We had a cross functional (with Marketing, Sales and the Executive Teams) two day kickoff meeting, to review and finalize the following:
+1. Scope of content
+2. Who the audience is
+3. Find a technical solution
+4. Start fleshing out a content inventory
+5. Review solutions that would allow us to update quickly
+
+## Areas of Expertise
+
+
+
 
 ![information architecture](/assets/images/portfolio/erad/erad-site-2.png "eRAD information architecture")
 
