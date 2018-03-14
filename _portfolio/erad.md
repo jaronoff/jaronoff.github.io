@@ -29,6 +29,9 @@ We had a cross functional (with Marketing, Sales and the Executive Teams) two da
 5. Review solutions that would allow us to update quickly
 
 ## Areas of Expertise
+* Interaction Design
+* User Experience
+* Design
 
 
 
