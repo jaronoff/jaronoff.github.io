@@ -3,6 +3,7 @@ layout: single
 classes:
   - landing
   - dark-theme
+  - wide
 toc: true
 
 title: Erad Site Redesign
