@@ -15,7 +15,7 @@ description: Launch a responsive web redesign of a company within RadNet, that f
 
 ---
 
-eRAD did a branding update last year, and needed a website that matched their new look. Their previous website was static and had some hurdles that made it unusable and didn't scale to what the business needs were.
+eRAD did a branding update and needed a website that matched their new look. Their previous website was static and had some hurdles that made it unusable and didn't scale to what the business needs were.
 
 ## Business Needs
 * Be easily maintained by a variety of marketing people.
