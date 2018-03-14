@@ -1,5 +1,6 @@
 ---
-layout: splash
+layout: single
+toc: true
 title: Erad Site Redesign
 description:  Launch a responsive web redesign of a company within RadNet, that focuses on good content, lead generation for sales and a well designed experience across different web-enabled devices.
 classes:
