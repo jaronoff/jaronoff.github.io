@@ -2,7 +2,6 @@
 
 layout: splash
 classes: wide
-toc: true
 ---
 
 
