@@ -3,8 +3,13 @@ layout: single
 classes:
   - landing
   - dark-theme
-  - wide
+
 toc: true
+
+
+excerpt: "Launch a responsive web redesign of a company within RadNet, that focuses on good content, lead generation for sales and a well designed experience across different web-enabled devices."
+header:
+  overlay_color: "#881a1d"
 
 title: Erad Site Redesign
 description: Launch a responsive web redesign of a company within RadNet, that focuses on good content, lead generation for sales and a well designed experience across different web-enabled devices.
